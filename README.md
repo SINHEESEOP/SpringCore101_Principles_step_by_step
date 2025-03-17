@@ -22,8 +22,8 @@
 8. 빈 스코프
 
 ## 🛠 기술 스택
-- Java 11
-- Spring Framework
+- Java 17
+- Spring Framework 3.x
 - Gradle
 - JUnit5
 
@@ -44,6 +44,3 @@ cd SpringCore101_Principles_step_by_step
 # 테스트 실행
 ./gradlew test
 ```
-
-## 📞 문의사항
-- GitHub Issues를 통해 문의해주세요. 
